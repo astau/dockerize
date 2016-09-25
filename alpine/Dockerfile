@@ -1,5 +1,5 @@
-# Alpine base image - 3.3 
-FROM alpine:3.3
+# Alpine base image - 3.4 
+FROM alpine:3.4
 
 MAINTAINER Srikanth <srikanth@astau.com>
 
